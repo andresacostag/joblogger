@@ -7,7 +7,7 @@ public class Application {
 	public static void main(String[] args) {
 
 		HashMap<String, String> map = new HashMap<>();
-		map.put("userName", "postgres");
+		map.put("userName", "postgres"); 
 		map.put("password", "adminpostgres");
 		map.put("dbms", "postgresql");
 		map.put("serverName", "localhost");
